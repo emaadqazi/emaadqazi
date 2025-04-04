@@ -1,11 +1,13 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=4a86e8&height=200&section=header&text=Emaad%20Qazi&fontSize=60&fontColor=ffffff)
 
 
-About Me
+
+## About Me
 👨‍💻 Double Degree Business Administration & Computer Science Student at Wilfrid Laurier University
 🌱 Interested in ML/AI and Data Science 
 📍 Waterloo, Ontario
 📧 Contact me at: qaziemaad@gmail.com
+
 
 
 Tech Stack
