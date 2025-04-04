@@ -1,12 +1,12 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=4a86e8&height=200&section=header&text=Emaad%20Qazi&fontSize=60&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=4a86e8&height=200&section=header&text=Emaad%20Qazi&fontSize=60&fontColor=ffffff) <br>
 
 
 
-## About Me
-👨‍💻 Double Degree Business Administration & Computer Science Student at Wilfrid Laurier University
-🌱 Interested in ML/AI and Data Science 
-📍 Waterloo, Ontario
-📧 Contact me at: qaziemaad@gmail.com
+## About Me <br>
+👨‍💻 Double Degree Business Administration & Computer Science Student at Wilfrid Laurier University <br>
+🌱 Interested in ML/AI and Data Science <br>
+📍 Waterloo, Ontario <br>
+📧 Contact me at: qaziemaad@gmail.com <br>
 
 
 
