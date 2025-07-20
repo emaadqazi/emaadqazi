@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=4a86e8&height=200&section=header&text=Emaad%20Qazi&fontSize=60&fontColor=ffffff) <br>
+![Banner](DSCF0009.jpg)<br>
 
 
 
