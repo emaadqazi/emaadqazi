@@ -1,72 +1,16 @@
-<div align="center" style="position: relative; width: 100%; max-width: 1000px; margin: auto;">
-  <!-- Background Image Container -->
-  <div style="position: relative; width: 100%; height: 300px; overflow: hidden; border-radius: 15px;">
-    <img src="https://github.com/emaadqazi/emaadqazi/blob/main/DSCF0009.jpg?raw=true" 
-         style="
-           width: 100%; 
-           height: 100%; 
-           object-fit: cover; 
-           object-position: center;
-         ">
-    
-    <!-- Gradient Overlay for Text Readability -->
-    <div style="
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background: linear-gradient(
-          135deg, 
-          rgba(168, 85, 247, 0.7) 0%, 
-          rgba(236, 72, 153, 0.6) 30%, 
-          rgba(249, 115, 22, 0.5) 70%, 
-          rgba(254, 215, 170, 0.4) 100%
-        );
-    "></div>
-    
-    <!-- Text Content Overlay -->
-    <div style="
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        text-align: center;
-        color: white;
-        z-index: 10;
-    ">
-      <h1 style="
-          font-size: 3.5em;
-          font-weight: bold;
-          margin: 0;
-          text-shadow: 3px 3px 6px rgba(0,0,0,0.8);
-          background: linear-gradient(45deg, #ffffff, #f8fafc);
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-          background-clip: text;
-      ">
-        Emaad Qazi
-      </h1>
-      <p style="
-          font-size: 1.3em;
-          margin: 10px 0 0 0;
-          text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
-          font-weight: 500;
-      ">
-        🎓 Business + Tech | 🚀 ML/AI & Data Science | 🏆 Hackathon Winner
-      </p>
-    </div>
-  </div>
+
+<div align="center">
+  <img src="https://github.com/emaadqazi/emaadqazi/blob/main/DSCF0009.jpg?raw=true" 
+       width="100%" 
+       style="max-width: 800px; border-radius: 15px; margin-bottom: 20px;">
   
-  <!-- Bottom Fade to GitHub Dark Theme -->
-  <div style="
-      margin-top: -30px;
-      height: 50px;
-      background: linear-gradient(to bottom, rgba(13,17,23,0) 0%, #0d1117 100%);
-      width: 100%;
-      position: relative;
-      z-index: 5;
-  "></div>
+  <h1 style="margin-top: -50px; color: white; font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
+    🎓 Emaad Qazi
+  </h1>
+  
+  <p style="color: #58a6ff; font-size: 1.2em; margin-top: 10px;">
+    🚀 Business Strategy × Technical Innovation | 🏆 Hackathon Winner
+  </p>
 </div>
 
 ## About Me <br>
