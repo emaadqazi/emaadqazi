@@ -1,4 +1,8 @@
-![Banner](DSCF0009.jpg)<br>
+<p align="center">
+  <img src="DSCF0009.jpg" width="100%" style="border-radius: 8px;">
+</p>
+
+<h1 align="center">Emaad Qazi</h1>
 
 
 
