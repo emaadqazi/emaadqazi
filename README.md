@@ -1,9 +1,12 @@
-<p align="center">
-  <img src="DSCF0009.jpg" width="100%" style="border-radius: 8px;">
-</p>
-
-<h1 align="center">Emaad Qazi</h1>
-
+<div align="center" style="position: relative; width: 100%; max-width: 1000px; margin: auto;">
+  <img src="https://github.com/emaadqazi/emaadqazi/blob/main/DSCF0009.jpg?raw=true" style="width: 100%; border-radius: 0px;">
+  <div style="
+      margin-top: -100px;
+      height: 100px;
+      background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, #0d1117 100%);
+      width: 100%;
+  "></div>
+</div>
 
 
 ## About Me <br>
