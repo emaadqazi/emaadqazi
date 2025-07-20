@@ -7,11 +7,6 @@
   <h1 style="margin-top: -50px; color: white; font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
     🎓 Emaad Qazi
   </h1>
-  
-  <p style="color: #58a6ff; font-size: 1.2em; margin-top: 10px;">
-    🚀 Business Strategy × Technical Innovation | 🏆 Hackathon Winner
-  </p>
-</div>
 
 ## About Me <br>
 👨‍💻 Double Degree Business Administration & Computer Science Student at Wilfrid Laurier University <br>
