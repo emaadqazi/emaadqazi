@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/emaadqazi/emaadqazi/blob/main/DSCF0009.jpg?raw=true" 
+  <img src="https://github.com/emaadqazi/emaadqazi/blob/main/FitQuest Stage Photo.png?raw=true" 
        width="100%" 
        style="max-width: 800px; border-radius: 15px; margin-bottom: 20px;">
   
