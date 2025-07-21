@@ -1,4 +1,4 @@
-  <h1 style="margin-top: -50px; color: white; font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
+  <h1 style="margin-top: -50px; color: white; font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.8); text-align: center">
     🎓 Emaad Qazi
   </h1>
 <div align="center">
