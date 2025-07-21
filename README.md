@@ -5,21 +5,12 @@
   <img src="https://github.com/emaadqazi/emaadqazi/blob/main/FitQuest%20Stage%20Photo.png?raw=true" 
        width="100%" 
        style="max-width: 800px; border-radius: 15px; margin-bottom: 20px;">
-
-    <!-- Badges -->
-  ![Last Commit](https://img.shields.io/github/last-commit/emaadqazi/emaadqazi)
-  ![Total Commits](https://img.shields.io/github/commit-activity/y/emaadqazi/emaadqazi)
-  ![Repo Size](https://img.shields.io/github/repo-size/emaadqazi/emaadqazi)
-  ![License](https://img.shields.io/github/license/emaadqazi/emaadqazi)
 </div>
   
 ## About Me <br>
 👨‍💻 Double Degree Business Administration & Computer Science Student at Wilfrid Laurier University <br>
 🌱 Bridging business strategy with technical expertise in ML/AI and Data Science<br>
 📧 Contact me at: qaziemaad@gmail.com <br>
-
-
-
 
 ## Technologies <br>
 ### Languages:
