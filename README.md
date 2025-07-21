@@ -5,6 +5,12 @@
   <img src="https://github.com/emaadqazi/emaadqazi/blob/main/FitQuest%20Stage%20Photo.png?raw=true" 
        width="100%" 
        style="max-width: 800px; border-radius: 15px; margin-bottom: 20px;">
+
+    <!-- Badges -->
+  ![Last Commit](https://img.shields.io/github/last-commit/emaadqazi/emaadqazi)
+  ![Total Commits](https://img.shields.io/github/commit-activity/y/emaadqazi/emaadqazi)
+  ![Repo Size](https://img.shields.io/github/repo-size/emaadqazi/emaadqazi)
+  ![License](https://img.shields.io/github/license/emaadqazi/emaadqazi)
 </div>
   
 ## About Me <br>
@@ -45,3 +51,6 @@
 
 ## Connect with  me  <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emaadqazi/)
+
+## GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=emaadqazi&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/emaadqazi/github-readme-stats)
