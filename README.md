@@ -1,11 +1,6 @@
-<div align="center">
-  <h1 style="margin-top: -50px; color: white; font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
-    🎓 Emaad Qazi
-  </h1>
-  <img src="https://github.com/emaadqazi/emaadqazi/blob/main/FitQuest%20Stage%20Photo.png?raw=true" 
-       width="100%" 
-       style="max-width: 800px; border-radius: 15px; margin-bottom: 20px;">
-</div>
+<h1 style="margin-top: -50px; color: white; font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
+  🎓 Emaad Qazi
+</h1>
   
 ## About Me <br>
 👨‍💻 Double Degree Business Administration & Computer Science Student at Wilfrid Laurier University <br>
