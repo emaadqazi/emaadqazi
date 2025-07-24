@@ -1,6 +1,4 @@
-<h1 style="margin-top: -50px; color: white; font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
-  🎓 Emaad Qazi
-</h1>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=4a86e8&height=200&section=header&text=Emaad%20Qazi&fontSize=60&fontColor=ffffff) <br>
   
 ## About Me <br>
 👨‍💻 Double Degree Business Administration & Computer Science Student at Wilfrid Laurier University <br>
