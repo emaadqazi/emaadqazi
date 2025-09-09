@@ -4,6 +4,7 @@
 👨‍💻 Double Degree Business Administration & Computer Science Student at Wilfrid Laurier University <br>
 🌱 Bridging business strategy with technical expertise in ML/AI and Data Science<br>
 📧 Contact me at: emaadqazi.dev@gmail.com<br>
+You can view my portfolio at: https://emaadqazi.github.io
 
 ## Technologies <br>
 ### Languages:
