@@ -1,10 +1,10 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=4a86e8&height=200&section=header&text=Emaad%20Qazi&fontSize=60&fontColor=ffffff) <br>
   
 ## About Me <br>
-👨‍💻 Double Degree Business Administration & Computer Science Student at Wilfrid Laurier University <br>
+👨‍💻 3A Double Degree Business Administration & Computer Science Student at Wilfrid Laurier University <br>
 🌱 Bridging business strategy with technical expertise in ML/AI and Data Science<br>
 📧 Contact me at: emaadqazi.dev@gmail.com<br>
-🔗 Portfolio Site: https://emaadqazi.github.io
+🔗 Portfolio Site: https://emaadqazi.com
 
 ## Technologies <br>
 ### Languages:
